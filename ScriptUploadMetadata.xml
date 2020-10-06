@@ -14,6 +14,7 @@
     <FileEntry Name="globals.h" Filter="2" />
     <FileEntry Name="ScriptVcsSettings.xml" Filter="2" />
     <FileEntry Name=".gitignore" Filter="1" />
+    <FileEntry Name="Action.c.bak" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="custom_body_variables.txt" Filter="1" />
@@ -21,5 +22,6 @@
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
     <FileEntry Name=".git\" Filter="1" />
+    <FileEntry Name="demo11\" Filter="1" />
   </GeneralFiles>
 </VugenScriptMetadata>
